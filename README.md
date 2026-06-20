@@ -93,35 +93,26 @@ Models are evaluated using:
 > Final selected model: Random Forest Classifier (based on performance comparison)
 
 ---
-
-## How to Run This Project
-
-```bash
-git clone https://github.com/your-username/codealpha-task1-credit-scoring.git
-cd codealpha-task1-credit-scoring
-pip install pandas numpy scikit-learn matplotlib seaborn
----
 ## Open the Notebook
 
 Open the file:
 ```text
 task1.ipynb
 ---
+## Key Learning Outcomes
+- Practical understanding of credit scoring systems  
+- Importance of data preprocessing in ML pipelines  
+- Model comparison and performance evaluation techniques  
+- Hands-on experience with classification algorithms  
+- End-to-end machine learning workflow implementation  
 
-### Key Learning Outcomes
-- Practical understanding of credit scoring systems
-- Importance of data preprocessing in ML pipelines
-- Model comparison and performance evaluation techniques
-- Hands-on experience with classification algorithms
-- End-to-end machine learning workflow implementation
 ---
 
-
 ## Author
-## Sara Sajid
-Social Media Marketer | BBA Student | AI & Machine Learning Intern
+**Sara Sajid**  
+Social Media Marketer | BBA Student | AI & Machine Learning Intern  
+
 ---
 
 ## License
 This project is developed for educational and internship purposes only.
----
