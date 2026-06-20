@@ -94,6 +94,19 @@ Models are evaluated using:
 
 ---
 
+## How to Run This Project
+
+```bash
+git clone https://github.com/your-username/codealpha-task1-credit-scoring.git
+cd codealpha-task1-credit-scoring
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+Open the notebook:
+task1.ipynb
+
+-----
+
+
 ## Key Learning Outcomes
 - Practical understanding of credit scoring systems  
 - Importance of data preprocessing in ML pipelines  
