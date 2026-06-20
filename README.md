@@ -93,12 +93,6 @@ Models are evaluated using:
 > Final selected model: Random Forest Classifier (based on performance comparison)
 
 ---
-## Open the Notebook
-
-Open the file:
-```text
-task1.ipynb
----
 ## Key Learning Outcomes
 - Practical understanding of credit scoring systems  
 - Importance of data preprocessing in ML pipelines  
