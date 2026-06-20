@@ -93,6 +93,7 @@ Models are evaluated using:
 > Final selected model: Random Forest Classifier (based on performance comparison)
 
 ---
+
 ## Key Learning Outcomes
 - Practical understanding of credit scoring systems  
 - Importance of data preprocessing in ML pipelines  
