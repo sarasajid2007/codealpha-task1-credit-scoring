@@ -96,11 +96,15 @@ Models are evaluated using:
 
 ## How to Run This Project
 
-### Step 1: Clone Repository
-```bash id="clone1"
+```bash
 git clone https://github.com/your-username/codealpha-task1-credit-scoring.git
 cd codealpha-task1-credit-scoring
 pip install pandas numpy scikit-learn matplotlib seaborn
+---
+## Open the Notebook
+
+Open the file:
+```text
 task1.ipynb
 ---
 
@@ -111,6 +115,7 @@ task1.ipynb
 - Hands-on experience with classification algorithms
 - End-to-end machine learning workflow implementation
 ---
+
 
 ## Author
 ## Sara Sajid
